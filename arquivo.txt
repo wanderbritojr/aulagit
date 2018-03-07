@@ -1,0 +1,5 @@
+#ola mundo!
+usuario : caracter
+escreva("insira o nome do usuario")
+leia (usuario)
+escreva("ola ao meu mundo usuario ",usuario)
